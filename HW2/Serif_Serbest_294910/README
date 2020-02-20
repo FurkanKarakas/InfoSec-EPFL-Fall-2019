@@ -1,0 +1,17 @@
+This archive contains:
+
+
+tokens.txt : tokens of homework 2
+ex1.py, ex2.py, ex3.py : code of first three questions as .py
+ex4a.conf, ex4b.conf : configurations of question 4 as .conf
+self-signed.conf : configurations to point certifiacate and key as .conf
+
+About .conf files in question 4:
+
+	Files are identical however in the code below self-signed.conf points different certificates 		and keys for part a and b in ex4a.conf and ex4b.conf.
+
+	> include snippets/self-signed.conf;
+
+
+
+

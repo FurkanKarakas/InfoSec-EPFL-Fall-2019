@@ -1,0 +1,8 @@
+This archive contains:
+
+tokens.txt : tokens from first 4 questions
+explanationsQ1Q2 : explanations from question 1 and 2
+SerifSonerSerbest_294910.tar : tar file for question 5
+q3code.txt : code of Q3 as .txt
+q4code.txt : code of Q4 as .txt
+interceptor.py : code of Q4 as .py

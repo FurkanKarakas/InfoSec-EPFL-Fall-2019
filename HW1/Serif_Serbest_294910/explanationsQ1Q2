@@ -1,0 +1,5 @@
+Explanations of Q1 and Q2
+
+Q1. In the process of login, no network packages detected. It showed that the password is created inside the code. Debuging the code enabled me to find the function that creates password from my email and a string.
+
+Q2. Since the website remembers you once you login, it directed me to look for the cookies. When i decode it with base64. I found the meaningful string and modified user as administrator after trying some combinations such as admin etc. 
